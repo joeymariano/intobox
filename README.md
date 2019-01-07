@@ -1,1 +1,1 @@
-(https://raw.githubusercontent.com/joeymariano/intobox/master/intoBox.gif)
+[https://raw.githubusercontent.com/joeymariano/intobox/master/intoBox.gif]
